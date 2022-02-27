@@ -1,0 +1,6 @@
+[submodule "nautobot-docker-compose"]
+	path = nautobot-docker-compose
+	url = https://github.com/nautobot/nautobot-docker-compose.git
+[submodule "TRMM-Docker-Backup-Script"]
+	path = TRMM-Docker-Backup-Script
+	url = https://github.com/larseberhardt/TRMM-Docker-Backup-Script.git
